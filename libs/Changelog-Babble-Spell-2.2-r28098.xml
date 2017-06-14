@@ -1,0 +1,273 @@
+<?xml version="1.0"?>
+<log>
+<logentry
+   revision="28098">
+<author>nevcairiel</author>
+<date>2007-02-15T13:50:22.446402Z</date>
+<paths>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Spell-2.2/Babble-Spell-2.2.lua</path>
+</paths>
+<msg>Babble-2.2:
+- BS: Added Gift of the Naaru (Draenei Racial)</msg>
+</logentry>
+<logentry
+   revision="27820">
+<author>fenlis</author>
+<date>2007-02-12T00:25:54.103436Z</date>
+<paths>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Spell-2.2/Babble-Spell-2.2.lua</path>
+</paths>
+<msg>Babble-2.2:
+- Updated locales koKR</msg>
+</logentry>
+<logentry
+   revision="27761">
+<author>neriak</author>
+<date>2007-02-10T23:39:40.711718Z</date>
+<paths>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Spell-2.2/Babble-Spell-2.2.lua</path>
+</paths>
+<msg>Babble-2.2:
+- Added german translation: Babble-Spell-2.2.lua</msg>
+</logentry>
+<logentry
+   revision="27728">
+<author>rabbit</author>
+<date>2007-02-10T16:00:00.227040Z</date>
+<paths>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Spell-2.2/Babble-Spell-2.2.lua</path>
+</paths>
+<msg>.Babble-Spell-2.2: Added portal and teleports to Exodar, Shattrath and Silvermoon.</msg>
+</logentry>
+<logentry
+   revision="27453">
+<author>gagorian</author>
+<date>2007-02-07T14:18:25.999127Z</date>
+<paths>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Spell-2.2/Babble-Spell-2.2.lua</path>
+</paths>
+<msg>.BabbleSpell-2.2: deDE localization for Incineration</msg>
+</logentry>
+<logentry
+   revision="27437">
+<author>gagorian</author>
+<date>2007-02-07T11:45:46.303127Z</date>
+<paths>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Spell-2.2/Babble-Spell-2.2.lua</path>
+</paths>
+<msg>.Babble-Spell-2.2: Added key for the mage talent incineration (it's not called Incinerate like in the online talent calculator).</msg>
+</logentry>
+<logentry
+   revision="27362">
+<author>funkydude</author>
+<date>2007-02-06T14:57:09.201827Z</date>
+<paths>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Spell-2.2/Babble-Spell-2.2.lua</path>
+</paths>
+<msg>Babble-2.2: Spell:
+- deDE Prayer of Mending, according to Oranien</msg>
+</logentry>
+<logentry
+   revision="27342">
+<author>shiftos</author>
+<date>2007-02-06T12:43:52.720713Z</date>
+<paths>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Fish-2.2/Babble-Fish-2.2.lua</path>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Herbs-2.2/Babble-Herbs-2.2.lua</path>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Zone-2.2/Babble-Zone-2.2.lua</path>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Ore-2.2/Babble-Ore-2.2.lua</path>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Spell-2.2/Babble-Spell-2.2.lua</path>
+</paths>
+<msg>Babble-2.2: esES updated in Fish, Herbs, Ore, Spell, Zone</msg>
+</logentry>
+<logentry
+   revision="27304">
+<author>funkydude</author>
+<date>2007-02-06T00:48:25.395747Z</date>
+<paths>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Spell-2.2/Babble-Spell-2.2.lua</path>
+</paths>
+<msg>Babble-2.2: Spell:
+- deDE changes according to Cerberos, EnSabahNur &amp; Aronus</msg>
+</logentry>
+<logentry
+   revision="27107">
+<author>kemayo</author>
+<date>2007-02-04T00:52:41.071848Z</date>
+<paths>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Spell-2.2/Babble-Spell-2.2.lua</path>
+</paths>
+<msg>Babble-2.2:
+-Add Jewelcrafting and Prospecting icons for acirac.</msg>
+</logentry>
+<logentry
+   revision="26479">
+<author>shiftos</author>
+<date>2007-01-29T14:48:26.916640Z</date>
+<paths>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Herbs-2.2/Babble-Herbs-2.2.lua</path>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Spell-2.2/Babble-Spell-2.2.lua</path>
+</paths>
+<msg>Babble-2.2: updated esES in Herbs and Spell</msg>
+</logentry>
+<logentry
+   revision="26191">
+<author>funkydude</author>
+<date>2007-01-26T10:06:11.376316Z</date>
+<paths>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Boss-2.2/Babble-Boss-2.2.toc</path>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Spell-2.2/Babble-Spell-2.2.toc</path>
+<path
+   action="M">/trunk/Babble-2.2/Babble-SpellTree-2.2/Babble-SpellTree-2.2.toc</path>
+<path
+   action="M">/trunk/Babble-2.2/babblelod.bat</path>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Fish-2.2/Babble-Fish-2.2.toc</path>
+<path
+   action="A">/trunk/Babble-2.2/Babble-Quest-2.2/Babble-Quest-2.2.toc</path>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Race-2.2/Babble-Race-2.2.toc</path>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Herbs-2.2/Babble-Herbs-2.2.toc</path>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Zone-2.2/Babble-Zone-2.2.toc</path>
+<path
+   action="A">/trunk/Babble-2.2/Babble-Trainer-2.2/Babble-Trainer-2.2.toc</path>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Class-2.2/Babble-Class-2.2.toc</path>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Ore-2.2/Babble-Ore-2.2.toc</path>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Vendor-2.2/Babble-Vendor-2.2.toc</path>
+</paths>
+<msg>Babble-2.2: toc updates</msg>
+</logentry>
+<logentry
+   revision="26189">
+<author>funkydude</author>
+<date>2007-01-26T09:47:14.314072Z</date>
+<paths>
+<path
+   action="A">/trunk/Babble-2.2/Babble-Boss-2.2/Babble-Boss-2.2.toc</path>
+<path
+   action="A">/trunk/Babble-2.2/Babble-Spell-2.2/Babble-Spell-2.2.toc</path>
+<path
+   action="A">/trunk/Babble-2.2/Babble-SpellTree-2.2/Babble-SpellTree-2.2.toc</path>
+<path
+   action="A">/trunk/Babble-2.2/babblelod.bat</path>
+<path
+   action="A">/trunk/Babble-2.2/Babble-Fish-2.2/Babble-Fish-2.2.toc</path>
+<path
+   action="A">/trunk/Babble-2.2/Babble-Race-2.2/Babble-Race-2.2.toc</path>
+<path
+   action="A">/trunk/Babble-2.2/Babble-Herbs-2.2/Babble-Herbs-2.2.toc</path>
+<path
+   action="A">/trunk/Babble-2.2/Babble-Zone-2.2/Babble-Zone-2.2.toc</path>
+<path
+   action="A">/trunk/Babble-2.2/Babble-Class-2.2/Babble-Class-2.2.toc</path>
+<path
+   action="A">/trunk/Babble-2.2/Babble-Ore-2.2/Babble-Ore-2.2.toc</path>
+<path
+   action="A">/trunk/Babble-2.2/Babble-Vendor-2.2/Babble-Vendor-2.2.toc</path>
+</paths>
+<msg>Babble-2.2: LoD
+ * toc's for each section
+ * .bat file for use
+ * use: if your sick of loading things you don't need
+ * don't use: if you don't like lots of addon folders</msg>
+</logentry>
+<logentry
+   revision="26134">
+<author>pettigrow</author>
+<date>2007-01-25T18:41:52.077256Z</date>
+<paths>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Zone-2.2/Babble-Zone-2.2.lua</path>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Boss-2.2/Babble-Boss-2.2.lua</path>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Spell-2.2/Babble-Spell-2.2.lua</path>
+</paths>
+<msg>Babble-2.2: frFR Update</msg>
+</logentry>
+<logentry
+   revision="25788">
+<author>gamefaq</author>
+<date>2007-01-22T18:26:54.120479Z</date>
+<paths>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Spell-2.2/Babble-Spell-2.2.lua</path>
+</paths>
+<msg>Babble-2.2:
+- Typo Fix</msg>
+</logentry>
+<logentry
+   revision="25786">
+<author>gamefaq</author>
+<date>2007-01-22T18:05:31.219388Z</date>
+<paths>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Boss-2.2/Babble-Boss-2.2.lua</path>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Spell-2.2/Babble-Spell-2.2.lua</path>
+</paths>
+<msg>Babble-2.2:
+- Another deDE Updates</msg>
+</logentry>
+<logentry
+   revision="25659">
+<author>archarodim</author>
+<date>2007-01-21T00:10:50.342111Z</date>
+<paths>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Spell-2.2/Babble-Spell-2.2.lua</path>
+</paths>
+<msg>Babble-2.2: Babble-Spell-2.2:
+- Fix illegal utf-8 character sequence (ASCII Spanish accented letters) that prevented the file to be read and interpreted as an utf-8 file.......</msg>
+</logentry>
+<logentry
+   revision="25639">
+<author>shiftos</author>
+<date>2007-01-20T19:33:36.446196Z</date>
+<paths>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Spell-2.2/Babble-Spell-2.2.lua</path>
+</paths>
+<msg>Babble-2.2:
+- Babble-Spell-2.2: added esES (spanish) translation</msg>
+</logentry>
+<logentry
+   revision="25632">
+<author>pettigrow</author>
+<date>2007-01-20T17:21:26.588737Z</date>
+<paths>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Herbs-2.2/Babble-Herbs-2.2.lua</path>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Ore-2.2/Babble-Ore-2.2.lua</path>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Boss-2.2/Babble-Boss-2.2.lua</path>
+<path
+   action="M">/trunk/Babble-2.2/Babble-Spell-2.2/Babble-Spell-2.2.lua</path>
+</paths>
+<msg>Babble-2.2: frFR Update</msg>
+</logentry>
+</log>

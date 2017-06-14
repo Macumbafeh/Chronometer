@@ -1,0 +1,69 @@
+------------------------------------------------------------------------
+r28229 | rophy | 2007-02-16 21:48:03 -0500 (Fri, 16 Feb 2007) | 3 lines
+Changed paths:
+   M /trunk/ParserLib/ParserLib-1.1/ParserLib.lua
+
+ParserLib-1.1:
+- Fixed trailers weren't in numeric form.
+
+------------------------------------------------------------------------
+r28134 | rophy | 2007-02-15 21:29:41 -0500 (Thu, 15 Feb 2007) | 4 lines
+Changed paths:
+   M /trunk/ParserLib/ParserLib-1.1/ParserLib.lua
+
+ParserLib-1.1
+- Remove missed debugging outputs.
+- The keywordTable is generated automatically.
+
+------------------------------------------------------------------------
+r28100 | rophy | 2007-02-15 09:03:39 -0500 (Thu, 15 Feb 2007) | 7 lines
+Changed paths:
+   M /trunk/ParserLib/ParserLib-1.1/ParserLib.lua
+
+ParserLib-1.1
+- Major code cleanup.
+- Changed client handler table structure.
+- keywordTable will be tested on load, incorrect entries will be removed.
+- Fixed ConvertPattern() to work on more complex formats which appeared in koKR GlobalStrings.
+- Optimized trailer parsing, numeric type conversion, patternInfo loading.
+- Simplified the way eventTable works: optimized eventTable is provided independently for each localization. If the eventTable does not match the current locale, it'll be resorted to make sure it works on the locale. (Currently only enUS has the optimized eventTable, I will update other locales soon, do not attempt to add one yourself if you don't know how it works).
+------------------------------------------------------------------------
+r27986 | fenlis | 2007-02-14 01:09:37 -0500 (Wed, 14 Feb 2007) | 3 lines
+Changed paths:
+   M /trunk/ParserLib/ParserLib-1.1/ParserLib.lua
+
+ParserLib : 
+ - Fixed 'duplicated keywords'
+ - Fixed keywords for koKR
+------------------------------------------------------------------------
+r27734 | rophy | 2007-02-10 11:55:31 -0500 (Sat, 10 Feb 2007) | 1 line
+Changed paths:
+   M /trunk/ParserLib/ParserLib-1.1/ParserLib.lua
+
+ParserLib-1.1: Make some local fields accessible from external scope.
+------------------------------------------------------------------------
+r27412 | fenlis | 2007-02-07 03:40:47 -0500 (Wed, 07 Feb 2007) | 1 line
+Changed paths:
+   M /trunk/ParserLib/ParserLib-1.1/ParserLib.lua
+
+ParserLib : Updated locale koKR (for Optimizer)
+------------------------------------------------------------------------
+r27050 | fenlis | 2007-02-03 07:35:53 -0500 (Sat, 03 Feb 2007) | 1 line
+Changed paths:
+   M /trunk/ParserLib/ParserLib-1.1/ParserLib.lua
+
+ParserLib - Updated Localization kokR
+------------------------------------------------------------------------
+r27043 | next96 | 2007-02-03 03:36:40 -0500 (Sat, 03 Feb 2007) | 2 lines
+Changed paths:
+   M /trunk/ParserLib/ParserLib-1.1/ParserLib.lua
+
+ParserLib :
+- Update locale koKR
+------------------------------------------------------------------------
+r25542 | rabbit | 2007-01-18 20:40:21 -0500 (Thu, 18 Jan 2007) | 1 line
+Changed paths:
+   M /trunk/ParserLib/ParserLib-1.1/ParserLib.lua
+
+.Parser-1.1: Slight speedups by accessing stuff through the local scope instead of through self. all the time.
+------------------------------------------------------------------------

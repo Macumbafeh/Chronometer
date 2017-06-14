@@ -1,0 +1,45 @@
+## Interface: 20400
+## Author: Bhattu
+## Title: Chronometer |cff7fff7f -Ace2-|r
+## Notes: Tracks spell effects (HoTs, DoTs, buffs, debuffs, etc.) that you cast.
+## Version: 0.10
+## OptionalDeps: Ace2, Babble-2.2, CandyBar, DewdropLib, PaintChipsLib, ParserLib, SurfaceLib, Surfaces
+## SavedVariables: ChronometerDB
+
+## X-ReleaseDate: $Date: 2007-01-29 19:14:59 -0500 (Mon, 29 Jan 2007) $
+## X-Revision: $Revision: 26541 $
+## X-Email: deankus@gmail.com
+## X-Category: Combat
+## X-Website: http://www.wowace.com/wiki/Chronometer
+## X-Embeds: Ace2, Babble-2.2, CandyBar, DewdropLib, PaintChipsLib, ParserLib, SurfaceLib
+
+libs\AceLibrary\AceLibrary.lua
+libs\AceOO-2.0\AceOO-2.0.lua
+libs\AceEvent-2.0\AceEvent-2.0.lua
+libs\AceDB-2.0\AceDB-2.0.lua
+libs\AceConsole-2.0\AceConsole-2.0.lua
+libs\AceHook-2.1\AceHook-2.1.lua
+libs\AceLocale-2.2\AceLocale-2.2.lua
+libs\AceDebug-2.0\AceDebug-2.0.lua
+libs\AceAddon-2.0\AceAddon-2.0.lua
+libs\Babble-Spell-2.2\Babble-Spell-2.2.lua
+libs\ParserLib\ParserLib.lua
+libs\PaintChips-2.0\PaintChips-2.0.lua
+libs\CandyBar-2.0\CandyBar-2.0.lua
+libs\Dewdrop-2.0\Dewdrop-2.0.lua
+libs\Surface-1.0\Surface-1.0.lua
+
+Core\Chronometer-Locale.lua
+Core\Chronometer.lua
+
+Data\Druid.lua
+Data\Hunter.lua
+Data\Mage.lua
+Data\Paladin.lua
+Data\Priest.lua
+Data\Rogue.lua
+Data\Shaman.lua
+Data\Warlock.lua
+Data\Warrior.lua
+Data\Racial.lua
+
